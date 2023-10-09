@@ -1,4 +1,4 @@
-## U.S-Sales-of-EVs-PHEV
+## U.S Sales of EVs PHEV
 
 #### A Powerbi report on the sale of Electric Vehicles (EVs) and Plug-in Hybird vehicles(PHEVs) in the US between 2011 and 2019
 
