@@ -21,4 +21,4 @@
 
 
 ## Recommandation
-Overall, this reports provides a snapshot of thesale of Electric Vehicles (EVs) and Plug-in Hybird vehicles(PHEVs) in the US between 2011 and 2019. Electric Vehicles markets, hihlighting key players, trends and potential growth areas. As a Data Analysts can leverage this information to gain deeper insights into market dynamics, consumer behavior, and competitive landscape, enabling them to make more informed decisions and recommendations for businesses and plocy makers in the automotive and energy sectors.
+Overall, this reports provides a snapshot of the sale of Electric Vehicles (EVs) and Plug-in Hybird vehicles(PHEVs) in the US between 2011 and 2019. Electric Vehicles markets, hihlighting key players, trends and potential growth areas. As a Data Analysts can leverage this information to gain deeper insights into market dynamics, consumer behavior, and competitive landscape, enabling them to make more informed decisions and recommendations for businesses and plocy makers in the automotive and energy sectors.
